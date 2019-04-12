@@ -27,6 +27,7 @@ $(document).ready(function() {
          $(this).css("width",random+"px");
       })
    })
+   
 
 
 })
